@@ -10,3 +10,5 @@
 - Boolean => True and False
 - None => none
 - Functions, Modules, Class
+
+- dir() => used for help in python
